@@ -1,0 +1,8 @@
+# Ignorar resultados de escaneos
+*.nmap
+*.log
+*.txt
+
+# Ignorar configuraciones locales
+/.config/
+/venv/
