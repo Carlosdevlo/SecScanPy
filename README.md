@@ -128,9 +128,6 @@ EOL
 🔗 GitHub: [@carlosdevlo](https://github.com/carlosdevlo)  
 📧 Email: carlosdevlo@gmail.com  
 
----
-
-> 💬 *“El conocimiento es poder, pero el poder sin ética es destrucción.”*# 🔒 SecScanPy
 
 ![Security Shield](https://img.shields.io/badge/Security-Ethical_Hacking-blue)
 ![License: MIT Ethical](https://img.shields.io/badge/license-MIT--Ethical-blue.svg)
@@ -245,11 +242,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
 Puedes generar este archivo automáticamente con:
 
-```bash
+```bashhttps://github.com/Carlosdevlo/SecScanPy/blob/main/README.md
 cat > LICENSE <<'EOL'
 [texto de la licencia como se muestra arriba]
 EOL
-```
+```https://github.com/Carlosdevlo/SecScanPy/blob/main/README.md
 
 ---
 
